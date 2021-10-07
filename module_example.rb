@@ -39,4 +39,4 @@ class Car
   car1 = Car.new
   puts bike1.accelerate
   puts bike1.ring_bell
-  puts car1.brake
+  puts car1.brake 
